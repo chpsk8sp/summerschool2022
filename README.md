@@ -2,4 +2,5 @@
 
 
 
-![Summer School for Activists 2022: A workshop series for Niagara](Screen Shot 2022-05-16 at 2.39.14 PM.png)
+
+![Summer School for Activists 2022: A workshop series for Niagara](Screen_Shot_2022-05-16_at_2.39.14_PM.png)
