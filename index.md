@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Page 1]()
+[Page 1](https://chpsk8sp.github.io/summerschool2022/page_1)
 
 You can use the [editor on GitHub](https://github.com/chpsk8sp/summerschool2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
